@@ -1,0 +1,22 @@
+html {
+  font-size: 100%;
+}
+
+body {
+  padding: 4rem;
+  color: rgba(0,0,0,0.5);
+  background-color: hsla(165, 40%, 20%, 0.3);
+}
+
+.site-title {
+  font-size: 5rem;
+  line-height: 0.9;
+  margin: 0 0 4rem;
+}
+.card {
+  display: table;
+  background-color: #f8f8f8;
+  border-radius: 0.5rem;
+  padding: 4rem 2rem;
+  box-shadow: 0.5rem 0.5rem 1rem hsla(0,0,0,0.3);
+}
